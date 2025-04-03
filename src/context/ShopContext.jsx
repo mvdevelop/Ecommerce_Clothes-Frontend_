@@ -2,7 +2,7 @@
 import { createContext, useEffect, useState } from 'react';
 // import all_product from '../assets/all_product';
 
-const url = 'http://192.168.1.6:3000';
+const url = 'https://ecommerce-clothes-backend.onrender.com';
 
 export const ShopContext = createContext(null);
 
